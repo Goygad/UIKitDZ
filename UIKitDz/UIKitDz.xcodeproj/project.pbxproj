@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		520690B128DA20C300B29CE2 /* ViewController7.swift in Sources */ = {isa = PBXBuildFile; fileRef = 520690B028DA20C300B29CE2 /* ViewController7.swift */; };
 		52575CA128D4FEEA00A5AC39 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52575CA028D4FEEA00A5AC39 /* AppDelegate.swift */; };
 		52575CA328D4FEEA00A5AC39 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52575CA228D4FEEA00A5AC39 /* SceneDelegate.swift */; };
 		52575CA528D4FEEA00A5AC39 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52575CA428D4FEEA00A5AC39 /* ViewController.swift */; };
@@ -17,7 +16,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		520690B028DA20C300B29CE2 /* ViewController7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController7.swift; sourceTree = "<group>"; };
 		52575C9D28D4FEEA00A5AC39 /* UIKitDz.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UIKitDz.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		52575CA028D4FEEA00A5AC39 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		52575CA228D4FEEA00A5AC39 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -61,7 +59,6 @@
 				52575CA028D4FEEA00A5AC39 /* AppDelegate.swift */,
 				52575CA228D4FEEA00A5AC39 /* SceneDelegate.swift */,
 				52575CA428D4FEEA00A5AC39 /* ViewController.swift */,
-				520690B028DA20C300B29CE2 /* ViewController7.swift */,
 				52575CA628D4FEEA00A5AC39 /* Main.storyboard */,
 				52575CA928D4FEEE00A5AC39 /* Assets.xcassets */,
 				52575CAB28D4FEEE00A5AC39 /* LaunchScreen.storyboard */,
@@ -143,7 +140,6 @@
 			files = (
 				52575CA528D4FEEA00A5AC39 /* ViewController.swift in Sources */,
 				52575CA128D4FEEA00A5AC39 /* AppDelegate.swift in Sources */,
-				520690B128DA20C300B29CE2 /* ViewController7.swift in Sources */,
 				52575CA328D4FEEA00A5AC39 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
