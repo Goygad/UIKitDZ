@@ -13,6 +13,16 @@
 		52575CA828D4FEEA00A5AC39 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 52575CA628D4FEEA00A5AC39 /* Main.storyboard */; };
 		52575CAA28D4FEEE00A5AC39 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 52575CA928D4FEEE00A5AC39 /* Assets.xcassets */; };
 		52575CAD28D4FEEE00A5AC39 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 52575CAB28D4FEEE00A5AC39 /* LaunchScreen.storyboard */; };
+		52A99C6E2906B9F30039F982 /* cocomberDark.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 52A99C692906B9F20039F982 /* cocomberDark.jpeg */; };
+		52A99C6F2906B9F30039F982 /* cocomberLight.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 52A99C6A2906B9F20039F982 /* cocomberLight.jpeg */; };
+		52A99C782906BCA00039F982 /* mainPage.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 52A99C772906BCA00039F982 /* mainPage.jpeg */; };
+		52A99C7A2907E5000039F982 /* ShopPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52A99C792907E5000039F982 /* ShopPage.swift */; };
+		52A99C7F29094BD60039F982 /* longMenu.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 52A99C7B29094BD50039F982 /* longMenu.jpeg */; };
+		52A99C8029094BD60039F982 /* cocomberMenuLight.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 52A99C7C29094BD60039F982 /* cocomberMenuLight.jpeg */; };
+		52A99C8129094BD60039F982 /* longMenuDark.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 52A99C7D29094BD60039F982 /* longMenuDark.jpeg */; };
+		52A99C8229094BD60039F982 /* cocomberMenu.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 52A99C7E29094BD60039F982 /* cocomberMenu.jpeg */; };
+		52A99C8529094C030039F982 /* longPurp.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 52A99C8329094C030039F982 /* longPurp.jpeg */; };
+		52A99C8629094C030039F982 /* longDark.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 52A99C8429094C030039F982 /* longDark.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +34,16 @@
 		52575CA928D4FEEE00A5AC39 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		52575CAC28D4FEEE00A5AC39 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		52575CAE28D4FEEE00A5AC39 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		52A99C692906B9F20039F982 /* cocomberDark.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cocomberDark.jpeg; sourceTree = "<group>"; };
+		52A99C6A2906B9F20039F982 /* cocomberLight.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cocomberLight.jpeg; sourceTree = "<group>"; };
+		52A99C772906BCA00039F982 /* mainPage.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = mainPage.jpeg; path = "../../../UIKit/Магазин/mainPage.jpeg"; sourceTree = "<group>"; };
+		52A99C792907E5000039F982 /* ShopPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShopPage.swift; sourceTree = "<group>"; };
+		52A99C7B29094BD50039F982 /* longMenu.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = longMenu.jpeg; sourceTree = "<group>"; };
+		52A99C7C29094BD60039F982 /* cocomberMenuLight.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cocomberMenuLight.jpeg; sourceTree = "<group>"; };
+		52A99C7D29094BD60039F982 /* longMenuDark.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = longMenuDark.jpeg; sourceTree = "<group>"; };
+		52A99C7E29094BD60039F982 /* cocomberMenu.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cocomberMenu.jpeg; sourceTree = "<group>"; };
+		52A99C8329094C030039F982 /* longPurp.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = longPurp.jpeg; path = "../../../UIKit/Магазин/longPurp.jpeg"; sourceTree = "<group>"; };
+		52A99C8429094C030039F982 /* longDark.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = longDark.jpeg; path = "../../../UIKit/Магазин/longDark.jpeg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,8 +79,18 @@
 				52575CA028D4FEEA00A5AC39 /* AppDelegate.swift */,
 				52575CA228D4FEEA00A5AC39 /* SceneDelegate.swift */,
 				52575CA428D4FEEA00A5AC39 /* ViewController.swift */,
+				52A99C792907E5000039F982 /* ShopPage.swift */,
 				52575CA628D4FEEA00A5AC39 /* Main.storyboard */,
 				52575CA928D4FEEE00A5AC39 /* Assets.xcassets */,
+				52A99C692906B9F20039F982 /* cocomberDark.jpeg */,
+				52A99C6A2906B9F20039F982 /* cocomberLight.jpeg */,
+				52A99C8429094C030039F982 /* longDark.jpeg */,
+				52A99C8329094C030039F982 /* longPurp.jpeg */,
+				52A99C772906BCA00039F982 /* mainPage.jpeg */,
+				52A99C7E29094BD60039F982 /* cocomberMenu.jpeg */,
+				52A99C7C29094BD60039F982 /* cocomberMenuLight.jpeg */,
+				52A99C7B29094BD50039F982 /* longMenu.jpeg */,
+				52A99C7D29094BD60039F982 /* longMenuDark.jpeg */,
 				52575CAB28D4FEEE00A5AC39 /* LaunchScreen.storyboard */,
 				52575CAE28D4FEEE00A5AC39 /* Info.plist */,
 			);
@@ -126,6 +156,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				52575CAD28D4FEEE00A5AC39 /* LaunchScreen.storyboard in Resources */,
+				52A99C782906BCA00039F982 /* mainPage.jpeg in Resources */,
+				52A99C8029094BD60039F982 /* cocomberMenuLight.jpeg in Resources */,
+				52A99C8229094BD60039F982 /* cocomberMenu.jpeg in Resources */,
+				52A99C8129094BD60039F982 /* longMenuDark.jpeg in Resources */,
+				52A99C6E2906B9F30039F982 /* cocomberDark.jpeg in Resources */,
+				52A99C8629094C030039F982 /* longDark.jpeg in Resources */,
+				52A99C7F29094BD60039F982 /* longMenu.jpeg in Resources */,
+				52A99C8529094C030039F982 /* longPurp.jpeg in Resources */,
+				52A99C6F2906B9F30039F982 /* cocomberLight.jpeg in Resources */,
 				52575CAA28D4FEEE00A5AC39 /* Assets.xcassets in Resources */,
 				52575CA828D4FEEA00A5AC39 /* Main.storyboard in Resources */,
 			);
@@ -138,6 +177,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				52A99C7A2907E5000039F982 /* ShopPage.swift in Sources */,
 				52575CA528D4FEEA00A5AC39 /* ViewController.swift in Sources */,
 				52575CA128D4FEEA00A5AC39 /* AppDelegate.swift in Sources */,
 				52575CA328D4FEEA00A5AC39 /* SceneDelegate.swift in Sources */,
